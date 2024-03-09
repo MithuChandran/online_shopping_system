@@ -1,0 +1,4 @@
+Clothing,C01,pink,4,4500.0,12,blue
+Clothing,C05,telly,2,3000.0,20,black
+Electronics,E15,laptop,6,200000.0,dell,0
+Electronics,E20,laptop,6,400000.0,samsung,0
